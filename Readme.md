@@ -153,8 +153,7 @@ To add new features or agent logic:
 
 🚀 [Deployed Streamlit App](https://scomultiagent-g8kkftypwt2mxbvforvmkm.streamlit.app/)
 
-🌐 [Django Backend on Render](https://sco-multi-agent.onrender.com)
-)
+🌐 Django Backend on Render
 
 
 ## 📁 Directory Structure
