@@ -149,10 +149,12 @@ To add new features or agent logic:
 5. Update the UI in Streamlit to support new functionality.
 
 ---
-## 🧩 Deployment at : 
-🚀 [Deployed Streamlit App]([https://your-app-name.streamlit.app](https://scomultiagent-g8kkftypwt2mxbvforvmkm.streamlit.app/))
+## 🧩 Deployment at:
 
-🌐 [Django Backend on Render]([https://sco-multi-agent.onrender.com](https://dashboard.render.com/web/srv-cvomtsh5pdvs73a1vdag))
+🚀 [Deployed Streamlit App](https://scomultiagent-g8kkftypwt2mxbvforvmkm.streamlit.app/)
+
+🌐 [Django Backend on Render](https://sco-multi-agent.onrender.com)
+)
 
 
 ## 📁 Directory Structure
